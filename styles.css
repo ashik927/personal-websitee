@@ -1,0 +1,73 @@
+body {
+    font-family: 'EB Garamond';
+}
+#namecolor{
+    color: crimson;
+}
+.setwidth{
+    width: 40%;
+    height: 100%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+.secondbackground{
+    background-color: whitesmoke;
+}
+.button{
+    border: 1px solid #3498db;
+    background: #3489db;
+    padding: 10px 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color:white;
+    border-radius: 12px;
+}
+.button:hover{
+    background: olive;
+    color:black;
+    transition-delay: 0.1s;
+}
+
+.setsecondwidth{
+    width: 40%;
+    float: left;
+    padding-top: 100px;
+    padding-left: 1%;
+}
+
+.thirdwidth{
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 3%;
+}
+
+.latestwork{
+    width:25%;
+    padding-left: 5%;
+}
+.footer{
+    width: 40%;
+    text-align: center;
+    padding-left: 30%;
+}
+.box{
+    
+    background-color: #3489db;
+    border-radius: 8px;
+    color: white;
+}
+#difference1{
+    padding-top: 5%;
+}
+
+#difference2{
+    padding-top: 30%;
+}
+
+#difference3{
+    padding-top: 50%;
+}
+#difference4{
+    padding-top: 10%;
+}
